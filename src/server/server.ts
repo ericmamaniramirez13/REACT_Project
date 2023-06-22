@@ -1,2 +1,2 @@
 import express from "express";
-console.log(express)npm
+console.log(express);
